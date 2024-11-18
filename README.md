@@ -1,6 +1,6 @@
 # Sporza Reader
 
-A very minimal html only reader
+A very minimal html only reader for sporza.be
 
 ## Usage
 
